@@ -43,7 +43,7 @@ object Dependencies {
     const val COIL = "io.coil-kt:coil:1.0.0"
 
     // Paging
-    const val PAGING = "androidx.paging:paging-runtime:3.0.0-alpha07"
+    const val PAGING = "androidx.paging:paging-runtime:3.0.0-alpha09"
 
     //Shimmer
     const val SHIMMER = "com.facebook.shimmer:shimmer:0.5.0"
